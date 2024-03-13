@@ -3,10 +3,10 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="Help Instance"
-                 start-page="Default-topic.md">
+                 name="Alien Project"
+                 start-page="alien.md">
 
-    <toc-element topic="Default-topic.md"/>
+    <toc-element topic="alien.md"/>
     <toc-element topic="BalanceInstallation.md"/>
     <toc-element topic="MomentaryEscape.md"/>
     <toc-element topic="badapple.md"/>
