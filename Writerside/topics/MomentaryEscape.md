@@ -1,4 +1,4 @@
-# 生态空间装置设计方案
+# 片刻停留：空间装置设计方案
 
 ## figma项目地址
 - [片刻停留](https://www.figma.com/community/file/1256619084557786938/space-installation-design-scheme-presentation-paper)

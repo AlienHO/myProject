@@ -1,4 +1,4 @@
-# 手势交互游戏
+# BAD APPLE：手势交互游戏
 
 ## github项目地址
 - [生态平衡交互装置项目](https://github.com/AlienHO/BAD_APPLE)

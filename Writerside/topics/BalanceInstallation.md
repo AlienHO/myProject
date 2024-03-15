@@ -1,4 +1,4 @@
-# 生态平衡交互装置项目
+# 平衡板球：手势交互装置
 
 ## github项目地址
  - [生态平衡交互装置项目](https://github.com/AlienHO/BalanceInstallation)
