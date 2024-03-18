@@ -8,9 +8,9 @@
 
     <toc-element topic="alien.md"/>
     <toc-element topic="BalanceInstallation.md"/>
-    <toc-element topic="MomentaryEscape.md"/>
-    <toc-element topic="badapple.md"/>
     <toc-element topic="MRInteractiveProject.md"/>
+    <toc-element topic="badapple.md"/>
+    <toc-element topic="MomentaryEscape.md"/>
     <toc-element topic="curating.md"/>
     <toc-element topic="CulturalTourism.md"/>
 </instance-profile>
