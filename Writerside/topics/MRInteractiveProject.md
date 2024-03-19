@@ -13,6 +13,9 @@
 
 <video src="04.mp4" preview-src="04.png"/>
 
+## 部署到iOS平台
+
+<video src="MRTK_iPad.mp4" preview-src="MRTK_iPad.jpg"/>
 
 **作品名称**：  
 《流变：从五行属性到无我心境的探索》  
