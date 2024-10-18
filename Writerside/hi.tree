@@ -7,6 +7,7 @@
                  start-page="alien.md">
 
     <toc-element topic="alien.md"/>
+    <toc-element topic="AIGC.md"/>
     <toc-element topic="BalanceInstallation.md"/>
     <toc-element topic="MRInteractiveProject.md"/>
     <toc-element topic="badapple.md"/>
