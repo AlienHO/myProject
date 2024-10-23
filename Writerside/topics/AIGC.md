@@ -16,6 +16,7 @@ Agents模式:AI成为独立的创作主体,设计师的角色转变为制定需�
 
 ![image_19.png](image_19.png)
 
+figma演示文稿：https://www.figma.com/proto/SMLd5eeybr3Mw7tPL8k0fY/AI-Enhanced-Proposal-Development-(Copy)?page-id=232%3A2143&node-id=348-4855&node-type=canvas&viewport=964%2C350%2C0.04&t=NCZYtqszg3EdEZIt-1&scaling=contain&content-scaling=fixed
 
 ## 工具推荐
 
